@@ -1,0 +1,14 @@
+.vscode
+build
+node_modules
+.env.develoment
+.eslintcache
+.gitignore
+.git
+.dockerignore
+.prettiercc
+.releaserc
+CHANGELOG.md
+Dockerfile
+/**/env-config.js
+README.md
